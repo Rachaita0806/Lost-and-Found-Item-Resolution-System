@@ -176,13 +176,13 @@ The case skips manual verification and proceeds to notification.
 - UiPath RPA – Automated email notification
 
 🔄 Complete Process
-Step 1:
+* Step 1:
 The user submits a lost-item report.
-Step 2:
+* Step 2:
 The Lost Item Analysis Agent organizes and analyzes the report.
-Step 3:
+* Step 3:
 The Match & Context Grounding Agent retrieves and compares relevant recovered-item records.
-Step 4:
+* Step 4:
 The system determines:
 Likely Match
      OR
@@ -190,11 +190,11 @@ Manual Verification
      OR
 No Match
 
-Step 5:
+* Step 5:
 If manual verification is required, the reviewer makes a decision through the Action App.
-Step 6:
+* Step 6:
 The Notification Generation Agent creates the final notification.
-Step 7:
+* Step 7:
 The Notification RPA sends the notification to the owner.
 
 🌟 Key Features
