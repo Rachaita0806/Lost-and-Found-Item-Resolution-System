@@ -208,6 +208,7 @@ The Notification RPA sends the notification to the owner.
 - ⚙️ End-to-end workflow orchestration with Maestro
 
 📂 Project Structure
+```text
 Lost & Found Item Resolution System
 │
 ├── Lost Item Analysis Agent
@@ -217,6 +218,7 @@ Lost & Found Item Resolution System
 ├── Lost & Found Notification RPA
 ├── Maestro Process
 └── Lost_and_Found_Recovered_Items.xlsx
+```
 
 🎓 Project Objective
 The objective of this project is to demonstrate how AI agents, workflow orchestration, human verification, and RPA can work together to automate a practical real-world process.
