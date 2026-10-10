@@ -221,9 +221,11 @@ Lost & Found Item Resolution System
 ```
 
 🎓 Project Objective
+
 The objective of this project is to demonstrate how AI agents, workflow orchestration, human verification, and RPA can work together to automate a practical real-world process.
 Instead of completely replacing human decision-making, the system uses AI for repetitive analysis and matching while involving a human when the available evidence is uncertain.
 
 👩‍💻 Project
+
 Lost & Found Item Resolution System
 Built using UiPath Automation Cloud and UiPath Maestro.
